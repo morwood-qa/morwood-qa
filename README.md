@@ -4,7 +4,8 @@ I'm Olga, a junior QA Engineer with 5 months of hands-on experience in manual te
 
 👩‍💻 Seeking my first role as a Trainer/Junior QA Engineer, I'm eager to engage in a variety of projects and explore career opportunities within a motivated, progressive team. Let's connect and uncover the possibilities! Reach me out!
 
-![Static Badge](https://img.shields.io/badge/Telegram%20-light%20blue?style=flat&logo=telegram&color=white&link=https%3A%2F%2Ft.me%2Folhamorwood)
+![Static Badge](https://img.shields.io/badge/Olha%20M%20-white?style=flat&logo=telegram&color=white&link=https%3A%2F%2Ft.me%2Folhamorwood)
+
 
 
 
