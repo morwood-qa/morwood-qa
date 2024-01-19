@@ -14,9 +14,12 @@ I'm Olga, a junior QA Engineer with 5 months of hands-on experience in manual te
 ![Static Badge](https://img.shields.io/badge/Jira%20Software%20-white?style=flat&logo=jira%20software&logoColor=%230052CC)
 ![Static Badge](https://img.shields.io/badge/Postman%20-white?style=flat&logo=postman)
 ![Static Badge](https://img.shields.io/badge/Charles%20Proxy%20-%23b0dce8?style=flat&logo=Charles)
-![Static Badge](https://img.shields.io/badge/Git%20-white?style=flat&logo=Git&logoColor=%23F05032)
-![Static Badge](https://img.shields.io/badge/DBeaver%20-white?style=flat&logo=DBeaver&logoColor=%23382923)
-![Static Badge](https://img.shields.io/badge/Slack%20-white?style=flat&logo=Slack&logoColor=%234A154B)
+![Static Badge](https://img.shields.io/badge/Git%20-%23ffffff?logo=Git&labelColor=black)
+![Static Badge](https://img.shields.io/badge/DBeaver%20-%23ffc299?logo=DBeaver&logoColor=%23382923&labelColor=%23ffc299)
+![Static Badge](https://img.shields.io/badge/Slack%20-%23ff99c2?logo=Slack&logoColor=%234A154B&labelColor=white)
+
+
+
 
 
 
