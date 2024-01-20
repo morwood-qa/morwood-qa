@@ -2,7 +2,7 @@
 
 I'm Olga, a junior QA Engineer with 5 months of hands-on experience in manual testing. In this short period of time, I have successfully implemented 7 interesting pet projects and have been actively participating in cross-functional team projects.
 
-👩🏼‍💻 Seeking my first role as a Trainer/Junior QA Engineer, I'm eager to engage in a variety of projects and explore career opportunities within a motivated, progressive team. Let's connect and uncover the possibilities! 
+👩🏼‍💻 Seeking my first role as a Intern/Junior QA Engineer, I'm eager to engage in a variety of projects and explore career opportunities within a motivated, progressive team. Let's connect and uncover the possibilities! 
 
 #### Reach me out!
 
