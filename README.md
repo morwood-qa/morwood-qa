@@ -18,7 +18,7 @@ I'm Olga, a junior QA Engineer with 5 months of hands-on experience in manual te
 ![Static Badge](https://img.shields.io/badge/DBeaver%20-%23ffc299?logo=DBeaver&logoColor=%23382923&labelColor=%23ffc299)
 ![Static Badge](https://img.shields.io/badge/Slack%20-%23ff99c2?logo=Slack&logoColor=%234A154B&labelColor=white)
 
-#### Bizness
+#### Biz
 
 
 
