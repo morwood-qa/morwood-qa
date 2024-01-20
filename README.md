@@ -1,8 +1,8 @@
 ### 🚀Hello there!
 
-I'm Olga, a junior QA Engineer with 5 months of hands-on experience in manual testing. In this short period of time, I have successfully implemented 7 pet projects and have been actively participating in cross-functional team projects.
+I'm Olga, a junior QA Engineer with 5 months of hands-on experience in manual testing. In this short period of time, I have successfully implemented 7 interesting pet projects and have been actively participating in cross-functional team projects.
 
-👩‍💻 Seeking my first role as a Trainer/Junior QA Engineer, I'm eager to engage in a variety of projects and explore career opportunities within a motivated, progressive team. Let's connect and uncover the possibilities! Reach me out!
+👩🏼‍💻 Seeking my first role as a Trainer/Junior QA Engineer, I'm eager to engage in a variety of projects and explore career opportunities within a motivated, progressive team. Let's connect and uncover the possibilities! Reach me out!
 
 ![Static Badge](https://img.shields.io/badge/Olha%20M%20-white?style=flat&logo=telegram&color=white&link=https%3A%2F%2Ft.me%2Folhamorwood)
 ![Static Badge](https://img.shields.io/badge/Olga%20Morwood%20-blue?style=flat&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Folga-morwood%2F)
@@ -18,7 +18,11 @@ I'm Olga, a junior QA Engineer with 5 months of hands-on experience in manual te
 ![Static Badge](https://img.shields.io/badge/DBeaver%20-%23ffc299?logo=DBeaver&logoColor=%23382923&labelColor=%23ffc299)
 ![Static Badge](https://img.shields.io/badge/Slack%20-%23ff99c2?logo=Slack&logoColor=%234A154B&labelColor=white)
 
-#### Biz
+#### Biz 
+
+📃 [My resume/CV](https://drive.google.com/file/d/15615XjHYxHUNgv0iiTKcfSbJIRgtJfua/view?usp=drive_link)
+
+📧 qamorwoodolha@gmail.com 
 
 
 
